@@ -1,0 +1,7 @@
+{
+    "other":{
+        "video_location_config":"/Users/edenbensimon/PycharmProjects/test/ven/big_buck_bunny_720p_5mb.mp4",
+        "output_location_config":"/Users/edenbensimon/PycharmProjects/test/ven/newFolder",
+        "buffer_config":1
+    }
+}
